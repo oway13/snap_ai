@@ -1,3 +1,5 @@
+./python/saves/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +104,83 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+python/saves/two10three5out5weight2bias0 Breed2 Score2/g0c0.txt
+python/saves/two10three5out5weight2bias0 Breed2 Score2/g0c1.txt
+python/saves/two10three5out5weight2bias0 Breed2 Score2/g1c0.txt
+python/saves/two10three5out5weight2bias0 Breed2 Score2/g1c1.txt
+python/saves/two10three5out5weight2bias0 Breed2 Score2/g2c0.txt
+python/saves/two10three5out5weight2bias0 Breed2 Score2/g2c1.txt
+python/saves/two10three5out5weight2bias0 Breed2 Score2/g3c0.txt
+python/saves/two10three5out5weight2bias0 Breed2 Score2/g3c1.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g0c0.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g0c1.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g1c0.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g1c1.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g2c0.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g2c1.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g3c0.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g3c1.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g4c0.txt
+python/saves/two10three5out5weight2bias2 Breed1 Score1/g4c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g0c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g0c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g10c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g10c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g11c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g11c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g1c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g1c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g2c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g2c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g3c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g3c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g5c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g5c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g5c2.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g5c3.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g5c4.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g6c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g6c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g7c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g7c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g8c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g8c1.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g9c0.txt
+python/saves/two10three5out5weight2bias2 Breed2 Score3/g9c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g0c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g0c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g10c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g10c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g10c2.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g10c3.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g10c4.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g1c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g1c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g2c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g2c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g3c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g3c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g4c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g4c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g5c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g5c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g6c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g6c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g7c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g7c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g8c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g8c1.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g9c0.txt
+python/saves/two20three20out5weight5bias20 Breed1 Score1/g9c1.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g0c0.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g0c1.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g1c0.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g1c1.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g2c0.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g2c1.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g3c0.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g3c1.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g4c0.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g4c1.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g5c0.txt
+python/saves/two20three20out5weight5bias20 Breed2 Score1/g5c1.txt
