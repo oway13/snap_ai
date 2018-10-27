@@ -1,4 +1,5 @@
 # snap_ai
+Kieran Kelly and Wyatt Kormick
 
 1. Run Project64 emulator on the Pokemon Snap ROM
 2. Move the emulator window to the top left corner of your screen, press "F7"
